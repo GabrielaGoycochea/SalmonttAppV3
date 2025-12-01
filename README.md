@@ -5,7 +5,7 @@ Seccion 2
 Analista Programador Computacional
 Online
 ___________________________________________________________________________
-Nombre del proyecto: SalmonttAppV2.1
+Nombre del proyecto: SalmonttAppV3
 ___________________________________________________________________________
 Descripción
 
@@ -18,6 +18,8 @@ Los datos que te permite revisar el programa por centro:
 -Estado del centro (Ok o sobrecapacidad)
 - Tipo de Centro
 - Producto a tratar en el centro.
+
+Se busca mostrar la información heredada en la subclases (nombre, ubicacion, cantidad de producto, capacidad del centro)
 ___________________________________________________________________________
 Estructura.
 Dentro de la carpeta src/main/java/com.Salmontt.App.version3
